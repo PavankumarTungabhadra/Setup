@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-15T17:36:53 IST" name="Default suite" finished-at="2024-11-15T17:36:59 IST" duration-ms="5831">
+    <groups>
+    </groups>
+    <test started-at="2024-11-15T17:36:53 IST" name="Default test" finished-at="2024-11-15T17:36:59 IST" duration-ms="5831">
+      <class name="FrameWork1.Setup.PlaceOrder">
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:FrameWork1.Setup.PlaceOrder@2d3379b4]" started-at="2024-11-15T17:36:53 IST" name="LaunchApplication" finished-at="2024-11-15T17:36:59 IST" duration-ms="5665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="Order()[pri:0, instance:FrameWork1.Setup.PlaceOrder@2d3379b4]" started-at="2024-11-15T17:36:59 IST" name="Order" finished-at="2024-11-15T17:36:59 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Order -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:FrameWork1.Setup.PlaceOrder@2d3379b4]" started-at="2024-11-15T17:36:59 IST" name="TearDown" finished-at="2024-11-15T17:36:59 IST" duration-ms="128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- FrameWork1.Setup.PlaceOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
